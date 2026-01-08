@@ -1,0 +1,12 @@
+# Cave of Craft - Python Refresher Project Dependencies
+# Install with: pip install -r requirements.txt
+
+# Testing framework
+pytest>=7.0.0
+
+# For better test output
+pytest-cov>=4.0.0
+
+# For JSON test reports
+pytest-json-report>=1.5.0
+
