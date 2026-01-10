@@ -12,5 +12,6 @@ def hello_world():
     Returns:
         None
     """
+    print("Hello, World!")
     # Your code here
 
